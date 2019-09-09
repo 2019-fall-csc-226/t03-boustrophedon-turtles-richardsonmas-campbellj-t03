@@ -12,7 +12,7 @@
 
 import turtle
 
-
+#Need to develop square, then use stamp shape square to fill for two lines. Loop function for defined range to fill square.
 def function_1():
     """
     Docstring for function_1
