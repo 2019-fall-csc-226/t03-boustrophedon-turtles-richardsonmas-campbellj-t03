@@ -1,9 +1,9 @@
 #################################################################################
-# Author:
-# Username:
+# Author: Mason Richardson, Jeremy Campbell
+# Username: richardsonmas, campbellj
 #
-# Assignment:
-# Purpose:
+# Assignment: T03
+# Purpose: This program fills a square without leaving any gaps.
 #################################################################################
 # Acknowledgements:
 #
@@ -31,9 +31,11 @@ def function_2():
 
 def main():
     """
-    Docstring for main
+    The "top" function of this program; the one that calls all other functions.
     """
     # ...
+    wn = turtle.Screen()
+
     function_1()            # Function call to function_1
     function_2()            # Function call to function_2
 
