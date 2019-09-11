@@ -53,7 +53,7 @@ def function_2(wn, darko):
         darko.right(-90)
         darko.forward(26)
         darko.right(-90)
-    # ...
+    # ...finished
 
 
 def main():
