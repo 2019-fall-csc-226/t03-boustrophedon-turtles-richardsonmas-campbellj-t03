@@ -9,13 +9,13 @@
 #
 #
 #################################################################################
-
+# Designating which library to open.
 import turtle
 
 
 def drawbox(wn, darko):
     """
-    Docstring for drawbox
+    This function is drawing the white box in the turtle screen.
     """
     darko.penup()
     darko.setpos(-263,263)
@@ -29,12 +29,12 @@ def drawbox(wn, darko):
     darko.forward(526)
 
 
-    # ...
+# White box with an orange screen has been constructed.
 
 
 def function_2(wn, darko):
     """
-    Docstring for function_2
+    This function is telling the turtle which path to stamp.
     """
     darko.penup()
     darko.setpos(-237,237)
